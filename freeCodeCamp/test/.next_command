@@ -98,3 +98,5 @@ cd .
 touch background.jpg
 touch header.png
 touch footer.jpeg
+git add freeCodeCamp/learn-bash-by-building-a-boilerplate:main
+ls --color=auto
