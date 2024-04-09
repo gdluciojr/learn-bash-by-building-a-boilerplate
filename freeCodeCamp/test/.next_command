@@ -104,3 +104,15 @@ touch roboto.font
 touch lato.font
 touch menlo.font
 ls --color=auto
+git status
+git commit -a
+git lato.font
+git add lato.font
+git add menlo.font
+git add roboto.font
+git status
+git puch
+git push
+git status
+ls --color=auto
+touch CodeAlly.svg
