@@ -132,3 +132,5 @@ git status
 git commit
 git push
 ls --color=auto
+__vsc_prompt_cmd_original
+cp header.png images
